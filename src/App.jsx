@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Navber from './components/Navber/Navber'
 import Blogs from './components/Blogs/Blogs'
